@@ -1,12 +1,12 @@
 # MPS-VQC
 
-Official code repository for **MPS-VQC**, a hybrid framework for **multimodal face anti-spoofing (face liveness detection)**.
+Official code repository for MPS-VQC, a hybrid quantum-classical framework for multimodal face anti-spoofing (face liveness detection).
 
 ## Overview
 
-This repository currently releases the **VQC part** of the method described in our paper, together with example input data used by the VQC module.
+This repository currently releases the VQC part of the method described in our paper, together with example input data used by the VQC module.
 
-The task studied in this project is **face anti-spoofing / face liveness detection**. The original public benchmark used in the paper is **CASIA-SURF**. The `.npz` files provided in this repository are **not raw CASIA-SURF data**; they are **features extracted from the original multimodal data and further compressed/fused by the MPS module**, prepared as inputs for the VQC stage.
+The task studied in this project is face anti-spoofing / face liveness detection. The original public benchmark used in the paper is CASIA-SURF. The `.npz` files provided in this repository are not raw CASIA-SURF data; they are features extracted from the original multimodal data and further compressed/fused by the MPS module, prepared as inputs for the VQC stage.
 
 ## Repository Status
 
@@ -42,10 +42,10 @@ The quantum simulation in this project is based on **MindSpore Quantum**.
 
 The repository will be gradually expanded with:
 
-- code for **single-modal feature extraction**;
-- code for **MPS-based multimodal fusion/compression**;
-- more complete **reproduction instructions and project documentation**.
+- code for single-modal feature extraction;
+- code for MPS-based multimodal fusion/compression;
+- more complete reproduction instructions and project documentation.
 
 ## License
 
-This repository is intended to be released under the **Apache License 2.0**.
+ **Apache License 2.0**.
