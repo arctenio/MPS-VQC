@@ -24,17 +24,17 @@
 
 ## MindSpore Quantum
 
-本项目中的量子数值模拟基于 **MindSpore Quantum**。
+本项目中的量子数值模拟基于 **MindSpore Quantum** 框架完成。
 
 ```bibtex
-@article{ma2023mindspore,
-  title={MindSpore Quantum: A user-friendly, high-performance, and AI-compatible quantum computing framework},
-  author={Ma, Hao and Liu, Yuxuan and Wang, Mingsheng and Zhao, Yilun and Wang, Yilin and Yang, Peng and Wang, Shengju and Xiong, Yao and He, Shaowei and Wang, Peina and others},
-  journal={Software Impacts},
-  volume={17},
-  pages={100512},
-  year={2023},
-  publisher={Elsevier}
+@misc{xu2024mindspore, 
+  title={MindSpore Quantum: A User-Friendly, High-Performance, and AI-Compatible Quantum Computing Framework}, 
+  author={Xusheng Xu and Jiangyu Cui and Zidong Cui and Runhong He and Qingyu Li and Xiaowei Li and Yanling Lin and Jiale Liu and Wuxin Liu and Jiale Lu and others}, 
+  year={2024}, 
+  eprint={2406.17248}, 
+  archivePrefix={arXiv}, 
+  primaryClass={quant-ph}, 
+  url={https://arxiv.org/abs/2406.17248}, 
 }
 ```
 
